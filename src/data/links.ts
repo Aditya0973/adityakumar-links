@@ -5,10 +5,10 @@ export const linksData: LinkItem[] = [
     id: 'portfolio',
     title: 'Main Portfolio',
     subtitle: 'Design Case Studies & UX Architecture',
-    url: 'https://adityakumar.framer.website/',
+    url: 'https://portfolio-adityakumar.vercel.app/',
     humorDesc: 'Where the polished case studies live. 99% auto-layout mastery, 1% panic over 4px padding, and 0 dropped frames.',
     category: 'Case Studies',
-    badge: 'Framer • 60 FPS',
+    badge: 'Live Site • 60 FPS',
     badgeColor: 'bg-[#FD601A] text-white',
     accentColor: '#FD601A',
     bgLightColor: '#FFF5F0',
@@ -17,7 +17,7 @@ export const linksData: LinkItem[] = [
       label: 'Design System',
       value: '100% Tokenized'
     },
-    tags: ['Framer', 'ProductDesign', 'UXResearch', 'DesignSystems']
+    tags: ['Portfolio', 'ProductDesign', 'UXResearch', 'DesignSystems']
   },
   {
     id: 'studio',

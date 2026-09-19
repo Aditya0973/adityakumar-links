@@ -10,7 +10,7 @@ Explore Aditya's core platforms and creative hubs:
 
 | Platform | Description | Link |
 | :--- | :--- | :--- |
-| 🌐 **Main Portfolio** | Design Case Studies & UX Architecture | [adityakumar.framer.website ↗](https://adityakumar.framer.website/) |
+| 🌐 **Main Portfolio** | Design Case Studies & UX Architecture | [portfolio-adityakumar.vercel.app ↗](https://portfolio-adityakumar.vercel.app/) |
 | 🚀 **Crafted Co. Products** | Shipped Apps, Product Store & Design Journal | [crafted-co.vercel.app ↗](https://crafted-co.vercel.app/) |
 | 🎨 **Behance Visual Lab** | UI/UX, Visual Design & 3D Models | [behance.net/1c5da35f ↗](https://www.behance.net/1c5da35f) |
 | 💻 **GitHub Repositories** | Source Code, Web Experiments & Algorithms | [github.com/Aditya0973 ↗](https://github.com/Aditya0973) |
@@ -82,7 +82,7 @@ npm run build
 ## 👨‍💻 Author
 
 **Aditya Kumar**
-- Portfolio: [adityakumar.framer.website](https://adityakumar.framer.website/)
+- Portfolio: [portfolio-adityakumar.vercel.app](https://portfolio-adityakumar.vercel.app/)
 - GitHub: [@Aditya0973](https://github.com/Aditya0973)
 - LinkedIn: [Aditya Kumar](https://www.linkedin.com/in/adityakumar0973/)
 - Behance: [Aditya Kumar](https://www.behance.net/1c5da35f)
